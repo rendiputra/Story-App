@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="logo_dicoding">Logo Dicoding</string>
+    <string name="dicoding">Dicoding Indonesia</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="is_have_account">Belum mempunyai akun?</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="name">Nama</string>
+    <string name="already_have_account">Sudah mempunyai akun?</string>
+
+    <string name="dummy_description"><b>User</b> VectorDrawables are not supported. This library is designed for BitmapDrawables only. Other drawables will likely fail or cause high memory usage.</string>
+
+    <string name="empty_story">Tidak ada story yang ditemukan!</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Upload</string>
+    <string name="description">Deskripsi</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_story_baru">Tambah story baru</string>
+    <string name="validation_error_email">Email tidak boleh kosong!</string>
+    <string name="validation_error_password">Password tidak boleh kosong</string>
+    <string name="email_not_valid">Format email tidak valid!</string>
+    <string name="validation_error_name">Nama tidak boleh kosong!</string>
+    <string name="password_smaller_6">Panjang password minimal 6 karakter!</string>
+    <string name="logout_message">Apakah anda yakin ingin logout akun?</string>
+    <string name="yes">Ya</string>
+    <string name="cancel">Batal</string>
+    <string name="image_empty">Gambar tidak boleh kosong!</string>
+    <string name="validation_error_description">Deskripsi tidak boleh kosong!</string>
+    <string name="capture_photo">Tangkap Gambar</string>
+    <string name="flip_camera">Balik Kamera</string>
+    <string name="close_camera">Tutup Kamera</string>
+</resources>
